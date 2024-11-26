@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="INSERT_OR_UPDATE">
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field>please_elaborate</field>
+        <field_message/>
+        <field_message_type>none</field_message_type>
+        <mandatory>true</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>Gueldon.Hajiraghe</sys_created_by>
+        <sys_created_on>2024-11-25 23:37:00</sys_created_on>
+        <sys_id>5dc37a1283c6d21080d09420feaad366</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>please_elaborate</sys_name>
+        <sys_package display_value="EduGate" source="x_cust2_edugate">08dd1586930e92109499b0484dba10a8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="EduGate">08dd1586930e92109499b0484dba10a8</sys_scope>
+        <sys_update_name>sys_ui_policy_action_5dc37a1283c6d21080d09420feaad366</sys_update_name>
+        <sys_updated_by>Gueldon.Hajiraghe</sys_updated_by>
+        <sys_updated_on>2024-11-25 23:37:00</sys_updated_on>
+        <table>x_cust2_edugate_applicants</table>
+        <ui_policy display_value="If Special/Medical Need is true, set the &quot;Please Elaborate&quot; variable to visible and read-only.">a1a3b61283c6d21080d09420feaad3dc</ui_policy>
+        <value/>
+        <value_action>ignore</value_action>
+        <visible>true</visible>
+    </sys_ui_policy_action>
+</record_update>

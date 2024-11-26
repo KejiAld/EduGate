@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="03413e5e8386d21080d09420feaad3a6" sys_domain="global" table="x_cust2_edugate_applicants" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>Gueldon.Hajiraghe</sys_created_by>
+            <sys_created_on>2024-11-25 23:25:23</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>df413e5e8386d21080d09420feaad3ce</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_cust2_edugate_applicants" name="x_cust2_edugate_applicants" sys_domain="global" view="Default view">03413e5e8386d21080d09420feaad3a6</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_cust2_edugate_applicants" sys_domain="global" view="Default view">d9ef1eda8346d21080d09420feaad3f4</sys_ui_section>
+            <sys_updated_by>Gueldon.Hajiraghe</sys_updated_by>
+            <sys_updated_on>2024-11-25 23:25:23</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>Gueldon.Hajiraghe</sys_created_by>
+            <sys_created_on>2024-11-25 23:25:23</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1f413e5e8386d21080d09420feaad3cf</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_cust2_edugate_applicants" name="x_cust2_edugate_applicants" sys_domain="global" view="Default view">03413e5e8386d21080d09420feaad3a6</sys_ui_form>
+            <sys_ui_section caption="Parent/Guardian Information 1" display_value="Parent/Guardian Information 1" name="x_cust2_edugate_applicants" sys_domain="global" view="Default view">03413e5e8386d21080d09420feaad3a4</sys_ui_section>
+            <sys_updated_by>Gueldon.Hajiraghe</sys_updated_by>
+            <sys_updated_on>2024-11-25 23:25:23</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>Gueldon.Hajiraghe</sys_created_by>
+            <sys_created_on>2024-11-25 23:35:09</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5e83361283c6d21080d09420feaad336</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_cust2_edugate_applicants" name="x_cust2_edugate_applicants" sys_domain="global" view="Default view">03413e5e8386d21080d09420feaad3a6</sys_ui_form>
+            <sys_ui_section caption="Parent/Guardian Information 2" display_value="Parent/Guardian Information 2" name="x_cust2_edugate_applicants" sys_domain="global" view="Default view">1283f21283c6d21080d09420feaad392</sys_ui_section>
+            <sys_updated_by>Gueldon.Hajiraghe</sys_updated_by>
+            <sys_updated_on>2024-11-25 23:35:10</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>3</position>
+            <sys_created_by>Gueldon.Hajiraghe</sys_created_by>
+            <sys_created_on>2024-11-25 23:29:52</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b052fe9e8386d21080d09420feaad391</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_cust2_edugate_applicants" name="x_cust2_edugate_applicants" sys_domain="global" view="Default view">03413e5e8386d21080d09420feaad3a6</sys_ui_form>
+            <sys_ui_section caption="Emergency Contact Information" display_value="Emergency Contact Information" name="x_cust2_edugate_applicants" sys_domain="global" view="Default view">3452fe9e8386d21080d09420feaad31e</sys_ui_section>
+            <sys_updated_by>Gueldon.Hajiraghe</sys_updated_by>
+            <sys_updated_on>2024-11-25 23:35:10</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_cust2_edugate_applicants</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>Gueldon.Hajiraghe</sys_created_by>
+            <sys_created_on>2024-11-25 23:25:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>03413e5e8386d21080d09420feaad3a6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_cust2_edugate_applicants</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="EduGate" source="x_cust2_edugate">08dd1586930e92109499b0484dba10a8</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="EduGate">08dd1586930e92109499b0484dba10a8</sys_scope>
+            <sys_update_name>sys_ui_form_sections_03413e5e8386d21080d09420feaad3a6</sys_update_name>
+            <sys_updated_by>Gueldon.Hajiraghe</sys_updated_by>
+            <sys_updated_on>2024-11-25 23:25:22</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

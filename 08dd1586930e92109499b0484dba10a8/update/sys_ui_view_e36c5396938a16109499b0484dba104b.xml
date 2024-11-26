@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_view">
+    <sys_ui_view action="INSERT_OR_UPDATE">
+        <group/>
+        <hidden>false</hidden>
+        <name>catalog_applicant_tracker_catalog</name>
+        <roles/>
+        <sys_class_name>sys_ui_view</sys_class_name>
+        <sys_created_by>Samara.Gaul</sys_created_by>
+        <sys_created_on>2024-11-26 02:33:49</sys_created_on>
+        <sys_id>e36c5396938a16109499b0484dba104b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Applicant Tracker Catalog View</sys_name>
+        <sys_package display_value="EduGate" source="x_cust2_edugate">08dd1586930e92109499b0484dba10a8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="EduGate">08dd1586930e92109499b0484dba10a8</sys_scope>
+        <sys_update_name>sys_ui_view_e36c5396938a16109499b0484dba104b</sys_update_name>
+        <sys_updated_by>Samara.Gaul</sys_updated_by>
+        <sys_updated_on>2024-11-26 02:33:49</sys_updated_on>
+        <title>Applicant Tracker Catalog View</title>
+        <user/>
+    </sys_ui_view>
+</record_update>

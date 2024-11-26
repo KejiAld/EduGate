@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="5a6f56da8346d21080d09420feaad384" extends="task" label="Applicants" max_length="40" name="x_cust2_edugate_applicants" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="First Name" max_length="40" name="first_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Email" max_length="40" name="u_email" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Previous School Attended" max_length="4000" name="previous_school" type="string_full_utf8"/>
+        <element attributes="edge_encryption_enabled=true" label="Name" max_length="40" name="name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Date of Birth" max_length="40" name="date_of_birth" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="Phone Number" max_length="40" name="emergency_phone_number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Address" max_length="4000" name="u_address" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Phone number" max_length="40" name="phone_number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Preferred Start Date" max_length="40" name="preferred_start" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Spring" sequence="2" value="spring"/>
+                <element inactive_on_update="false" label="Winter" sequence="1" value="winter"/>
+                <element inactive_on_update="false" label="Fall" sequence="0" value="fall"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Previous School attended" max_length="40" name="previous_school_attended" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Gender" max_length="40" name="gender" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Female" sequence="1" value="female"/>
+                <element inactive_on_update="false" label="Male" sequence="0" value="male"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Grade Applying For" max_length="40" name="grade_applying" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Grade 8" sequence="1" value="grade 8"/>
+                <element inactive_on_update="false" label="Grade 7" sequence="0" value="grade 7"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Name" max_length="40" name="emergency_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Email" max_length="40" name="email" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Last Name" max_length="40" name="last_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="First Name" max_length="40" name="u_first_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Phone Number" max_length="40" name="u_phone_number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Address" max_length="4000" name="address" type="string"/>
+        <element label="Special/Medical Needs" max_length="40" name="special_medical_needs" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" label="Last Name" max_length="40" name="u_last_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Email" max_length="40" name="emergency_email" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:getNextObjNumberPadded();" dynamic_default_value="fdcb83a85f220100a9ad2572f2b4773c" label="Applicant ID" max_length="40" name="applicant_id" type="string" use_dynamic_default="true"/>
+        <element attributes="edge_encryption_enabled=true" label="Could you please elaborate on their condition?" max_length="4000" name="please_elaborate" type="string"/>
+    </element>
+</database>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_application">
+    <sys_ui_application action="DELETE">
+        <active>true</active>
+        <hint/>
+        <name>test table</name>
+        <order/>
+        <roles>x_cust2_edugate.test_table_user</roles>
+        <sys_class_name>sys_ui_application</sys_class_name>
+        <sys_created_by>Keji.Alade</sys_created_by>
+        <sys_created_on>2024-11-25 22:59:25</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>4f5baa96938616109499b0484dba10bd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>test table</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="EduGate" source="x_cust2_edugate">08dd1586930e92109499b0484dba10a8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="EduGate">08dd1586930e92109499b0484dba10a8</sys_scope>
+        <sys_update_name>sys_ui_application_4f5baa96938616109499b0484dba10bd</sys_update_name>
+        <sys_updated_by>Keji.Alade</sys_updated_by>
+        <sys_updated_on>2024-11-25 22:59:25</sys_updated_on>
+    </sys_ui_application>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="EduGate">08dd1586930e92109499b0484dba10a8</application>
+        <file_path/>
+        <instance_id>4ae17226dbf8755002d91729139619d2</instance_id>
+        <instance_name>ven06768</instance_name>
+        <name>sys_ui_application_4f5baa96938616109499b0484dba10bd</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_application"><sys_ui_application action="INSERT_OR_UPDATE"><active>true</active><hint/><name>test table</name><order/><roles>x_cust2_edugate.test_table_user</roles><sys_class_name>sys_ui_application</sys_class_name><sys_created_by>Keji.Alade</sys_created_by><sys_created_on>2024-11-25 22:59:25</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>4f5baa96938616109499b0484dba10bd</sys_id><sys_mod_count>0</sys_mod_count><sys_name>test table</sys_name><sys_overrides/><sys_package display_value="EduGate" source="x_cust2_edugate">08dd1586930e92109499b0484dba10a8</sys_package><sys_policy/><sys_scope display_value="EduGate">08dd1586930e92109499b0484dba10a8</sys_scope><sys_update_name>sys_ui_application_4f5baa96938616109499b0484dba10bd</sys_update_name><sys_updated_by>Keji.Alade</sys_updated_by><sys_updated_on>2024-11-25 22:59:25</sys_updated_on></sys_ui_application></record_update>]]></payload>
+        <payload_hash>715669638</payload_hash>
+        <record_name>test table</record_name>
+        <reverted_from/>
+        <source>fa2ed1c6930e92109499b0484dba1035</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>Keji.Alade</sys_created_by>
+        <sys_created_on>2024-11-25 22:59:26</sys_created_on>
+        <sys_id>4b5baa96938616109499b0484dba10d9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>193658d18ca0000001</sys_recorded_at>
+        <sys_updated_by>Keji.Alade</sys_updated_by>
+        <sys_updated_on>2024-11-25 22:59:26</sys_updated_on>
+        <type>Application Menu</type>
+        <update_guid>cb5baa96f7861610456b693599d672d8</update_guid>
+        <update_guid_history>cb5baa96f7861610456b693599d672d8:715669638</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>Keji.Alade</sys_created_by>
+        <sys_created_on>2024-11-25 23:14:48</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_application">sys_ui_application</sys_db_object>
+        <sys_id>0d6e28f24324466880ba7bc067b466b9</sys_id>
+        <sys_metadata>4f5baa96938616109499b0484dba10bd</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>test table</sys_name>
+        <sys_package display_value="EduGate" source="x_cust2_edugate">08dd1586930e92109499b0484dba10a8</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="EduGate">08dd1586930e92109499b0484dba10a8</sys_scope>
+        <sys_scope_delete display_value="">8ef2fed5151641ac91b8f6cc7743ad11</sys_scope_delete>
+        <sys_update_name>sys_ui_application_4f5baa96938616109499b0484dba10bd</sys_update_name>
+        <sys_update_version display_value="sys_ui_application_4f5baa96938616109499b0484dba10bd">4b5baa96938616109499b0484dba10d9</sys_update_version>
+        <sys_updated_by>Keji.Alade</sys_updated_by>
+        <sys_updated_on>2024-11-25 23:14:48</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

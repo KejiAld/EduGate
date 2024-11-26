@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="DELETE">
+        <active>true</active>
+        <answer>test table</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>test table</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="Task" name="Task">a975bea6933031109499b0484dba10cf</question>
+        <roles/>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>Keji.Alade</sys_created_by>
+        <sys_created_on>2024-11-25 22:59:26</sys_created_on>
+        <sys_id>d75bea96938616109499b0484dba1023</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>test table</sys_name>
+        <sys_package display_value="EduGate" source="x_cust2_edugate">08dd1586930e92109499b0484dba10a8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="EduGate">08dd1586930e92109499b0484dba10a8</sys_scope>
+        <sys_update_name>sys_wizard_answer_d75bea96938616109499b0484dba1023</sys_update_name>
+        <sys_updated_by>Keji.Alade</sys_updated_by>
+        <sys_updated_on>2024-11-25 22:59:26</sys_updated_on>
+        <table/>
+        <target_url>x_cust2_edugate_test_table.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="EduGate">08dd1586930e92109499b0484dba10a8</application>
+        <file_path/>
+        <instance_id>4ae17226dbf8755002d91729139619d2</instance_id>
+        <instance_name>ven06768</instance_name>
+        <name>sys_wizard_answer_d75bea96938616109499b0484dba1023</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer"><sys_wizard_answer action="INSERT_OR_UPDATE"><active>true</active><answer>test table</answer><button_label/><dependent_value/><element/><name>test table</name><next_question/><order>100</order><payload_name/><question display_value="Task" name="Task">a975bea6933031109499b0484dba10cf</question><roles/><script/><sys_class_name>sys_wizard_answer</sys_class_name><sys_created_by>Keji.Alade</sys_created_by><sys_created_on>2024-11-25 22:59:26</sys_created_on><sys_id>d75bea96938616109499b0484dba1023</sys_id><sys_mod_count>0</sys_mod_count><sys_name>test table</sys_name><sys_package display_value="EduGate" source="x_cust2_edugate">08dd1586930e92109499b0484dba10a8</sys_package><sys_policy/><sys_scope display_value="EduGate">08dd1586930e92109499b0484dba10a8</sys_scope><sys_update_name>sys_wizard_answer_d75bea96938616109499b0484dba1023</sys_update_name><sys_updated_by>Keji.Alade</sys_updated_by><sys_updated_on>2024-11-25 22:59:26</sys_updated_on><table/><target_url>x_cust2_edugate_test_table.do</target_url><type>1</type></sys_wizard_answer></record_update>]]></payload>
+        <payload_hash>288888126</payload_hash>
+        <record_name>test table</record_name>
+        <reverted_from/>
+        <source>8a0a1921930212109499b0484dba10e8</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2024-11-23 09:08:40</sys_created_on>
+        <sys_id>18ce62da8386d21080d09420feaad3d8</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>1935847c9c00000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>Answer</type>
+        <update_guid>d4ce62da7c86d210d4df76661a2e14d8</update_guid>
+        <update_guid_history>d4ce62da7c86d210d4df76661a2e14d8:288888126</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>Keji.Alade</sys_created_by>
+        <sys_created_on>2024-11-25 23:14:16</sys_created_on>
+        <sys_db_object display_value="" name="sys_wizard_answer">sys_wizard_answer</sys_db_object>
+        <sys_id>122fb2e009c54bc89e0533dfa8cd1440</sys_id>
+        <sys_metadata>d75bea96938616109499b0484dba1023</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>test table</sys_name>
+        <sys_package display_value="EduGate" source="x_cust2_edugate">08dd1586930e92109499b0484dba10a8</sys_package>
+        <sys_parent display_value="Task">a975bea6933031109499b0484dba10cf</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="EduGate">08dd1586930e92109499b0484dba10a8</sys_scope>
+        <sys_scope_delete display_value="">8ef2fed5151641ac91b8f6cc7743ad11</sys_scope_delete>
+        <sys_update_name>sys_wizard_answer_d75bea96938616109499b0484dba1023</sys_update_name>
+        <sys_update_version display_value="sys_wizard_answer_d75bea96938616109499b0484dba1023">18ce62da8386d21080d09420feaad3d8</sys_update_version>
+        <sys_updated_by>Keji.Alade</sys_updated_by>
+        <sys_updated_on>2024-11-25 23:14:16</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
